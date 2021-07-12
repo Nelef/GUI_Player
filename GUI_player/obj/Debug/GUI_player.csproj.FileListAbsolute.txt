@@ -1,0 +1,71 @@
+C:\Users\Nelef\source\repos\GUI_player\GUI_player\bin\Debug\GUI_player.exe.config
+C:\Users\Nelef\source\repos\GUI_player\GUI_player\bin\Debug\GUI_player.exe
+C:\Users\Nelef\source\repos\GUI_player\GUI_player\bin\Debug\GUI_player.pdb
+C:\Users\Nelef\source\repos\GUI_player\GUI_player\obj\Debug\GUI_player.csprojAssemblyReference.cache
+C:\Users\Nelef\source\repos\GUI_player\GUI_player\obj\Debug\MainWindow.g.cs
+C:\Users\Nelef\source\repos\GUI_player\GUI_player\obj\Debug\App.g.cs
+C:\Users\Nelef\source\repos\GUI_player\GUI_player\obj\Debug\GUI_player_MarkupCompile.cache
+C:\Users\Nelef\source\repos\GUI_player\GUI_player\obj\Debug\GUI_player_MarkupCompile.lref
+C:\Users\Nelef\source\repos\GUI_player\GUI_player\obj\Debug\MainWindow.baml
+C:\Users\Nelef\source\repos\GUI_player\GUI_player\obj\Debug\GUI_player.g.resources
+C:\Users\Nelef\source\repos\GUI_player\GUI_player\obj\Debug\GUI_player.Properties.Resources.resources
+C:\Users\Nelef\source\repos\GUI_player\GUI_player\obj\Debug\GUI_player.csproj.GenerateResource.cache
+C:\Users\Nelef\source\repos\GUI_player\GUI_player\obj\Debug\GUI_player.exe
+C:\Users\Nelef\source\repos\GUI_player\GUI_player\obj\Debug\GUI_player.pdb
+C:\Users\Nelef\OneDrive - kumoh.ac.kr\repos\2학년 2학기\GUI\GUI_player\GUI_player\bin\Debug\GUI_player.exe.config
+C:\Users\Nelef\OneDrive - kumoh.ac.kr\repos\2학년 2학기\GUI\GUI_player\GUI_player\bin\Debug\GUI_player.exe
+C:\Users\Nelef\OneDrive - kumoh.ac.kr\repos\2학년 2학기\GUI\GUI_player\GUI_player\bin\Debug\GUI_player.pdb
+C:\Users\Nelef\OneDrive - kumoh.ac.kr\repos\2학년 2학기\GUI\GUI_player\GUI_player\obj\Debug\GUI_player.csprojAssemblyReference.cache
+C:\Users\Nelef\OneDrive - kumoh.ac.kr\repos\2학년 2학기\GUI\GUI_player\GUI_player\obj\Debug\MainWindow.g.cs
+C:\Users\Nelef\OneDrive - kumoh.ac.kr\repos\2학년 2학기\GUI\GUI_player\GUI_player\obj\Debug\App.g.cs
+C:\Users\Nelef\OneDrive - kumoh.ac.kr\repos\2학년 2학기\GUI\GUI_player\GUI_player\obj\Debug\GUI_player_MarkupCompile.cache
+C:\Users\Nelef\OneDrive - kumoh.ac.kr\repos\2학년 2학기\GUI\GUI_player\GUI_player\obj\Debug\GUI_player_MarkupCompile.lref
+C:\Users\Nelef\OneDrive - kumoh.ac.kr\repos\2학년 2학기\GUI\GUI_player\GUI_player\obj\Debug\MainWindow.baml
+C:\Users\Nelef\OneDrive - kumoh.ac.kr\repos\2학년 2학기\GUI\GUI_player\GUI_player\obj\Debug\GUI_player.g.resources
+C:\Users\Nelef\OneDrive - kumoh.ac.kr\repos\2학년 2학기\GUI\GUI_player\GUI_player\obj\Debug\GUI_player.Properties.Resources.resources
+C:\Users\Nelef\OneDrive - kumoh.ac.kr\repos\2학년 2학기\GUI\GUI_player\GUI_player\obj\Debug\GUI_player.csproj.GenerateResource.cache
+C:\Users\Nelef\OneDrive - kumoh.ac.kr\repos\2학년 2학기\GUI\GUI_player\GUI_player\obj\Debug\GUI_player.exe
+C:\Users\Nelef\OneDrive - kumoh.ac.kr\repos\2학년 2학기\GUI\GUI_player\GUI_player\obj\Debug\GUI_player.pdb
+C:\Users\namky\OneDrive\바탕 화면\GUI_player\GUI_player\bin\Debug\GUI_player.exe.config
+C:\Users\namky\OneDrive\바탕 화면\GUI_player\GUI_player\bin\Debug\GUI_player.exe
+C:\Users\namky\OneDrive\바탕 화면\GUI_player\GUI_player\bin\Debug\GUI_player.pdb
+C:\Users\namky\OneDrive\바탕 화면\GUI_player\GUI_player\obj\Debug\GUI_player.csprojAssemblyReference.cache
+C:\Users\namky\OneDrive\바탕 화면\GUI_player\GUI_player\obj\Debug\MainWindow.g.cs
+C:\Users\namky\OneDrive\바탕 화면\GUI_player\GUI_player\obj\Debug\App.g.cs
+C:\Users\namky\OneDrive\바탕 화면\GUI_player\GUI_player\obj\Debug\GUI_player_MarkupCompile.cache
+C:\Users\namky\OneDrive\바탕 화면\GUI_player\GUI_player\obj\Debug\GUI_player_MarkupCompile.lref
+C:\Users\namky\OneDrive\바탕 화면\GUI_player\GUI_player\obj\Debug\MainWindow.baml
+C:\Users\namky\OneDrive\바탕 화면\GUI_player\GUI_player\obj\Debug\GUI_player.g.resources
+C:\Users\namky\OneDrive\바탕 화면\GUI_player\GUI_player\obj\Debug\GUI_player.Properties.Resources.resources
+C:\Users\namky\OneDrive\바탕 화면\GUI_player\GUI_player\obj\Debug\GUI_player.csproj.GenerateResource.cache
+C:\Users\namky\OneDrive\바탕 화면\GUI_player\GUI_player\obj\Debug\GUI_player.exe
+C:\Users\namky\OneDrive\바탕 화면\GUI_player\GUI_player\obj\Debug\GUI_player.pdb
+C:\Users\Nelef\Desktop\GUI_PL~3\GUI_player\bin\Debug\GUI_player.exe.config
+C:\Users\Nelef\Desktop\GUI_PL~3\GUI_player\bin\Debug\GUI_player.exe
+C:\Users\Nelef\Desktop\GUI_PL~3\GUI_player\bin\Debug\GUI_player.pdb
+C:\Users\Nelef\Desktop\GUI_PL~3\GUI_player\obj\Debug\GUI_player.csprojAssemblyReference.cache
+C:\Users\Nelef\Desktop\GUI_PL~3\GUI_player\obj\Debug\MainWindow.g.cs
+C:\Users\Nelef\Desktop\GUI_PL~3\GUI_player\obj\Debug\App.g.cs
+C:\Users\Nelef\Desktop\GUI_PL~3\GUI_player\obj\Debug\GUI_player_MarkupCompile.cache
+C:\Users\Nelef\Desktop\GUI_PL~3\GUI_player\obj\Debug\GUI_player_MarkupCompile.lref
+C:\Users\Nelef\Desktop\GUI_PL~3\GUI_player\obj\Debug\MainWindow.baml
+C:\Users\Nelef\Desktop\GUI_PL~3\GUI_player\obj\Debug\GUI_player.g.resources
+C:\Users\Nelef\Desktop\GUI_PL~3\GUI_player\obj\Debug\GUI_player.Properties.Resources.resources
+C:\Users\Nelef\Desktop\GUI_PL~3\GUI_player\obj\Debug\GUI_player.csproj.GenerateResource.cache
+C:\Users\Nelef\Desktop\GUI_PL~3\GUI_player\obj\Debug\GUI_player.exe
+C:\Users\Nelef\Desktop\GUI_PL~3\GUI_player\obj\Debug\GUI_player.pdb
+D:\바탕화면\GUI_player\GUI_player\bin\Debug\GUI_player.exe.config
+D:\바탕화면\GUI_player\GUI_player\bin\Debug\GUI_player.exe
+D:\바탕화면\GUI_player\GUI_player\bin\Debug\GUI_player.pdb
+D:\바탕화면\GUI_player\GUI_player\obj\Debug\GUI_player.csprojAssemblyReference.cache
+D:\바탕화면\GUI_player\GUI_player\obj\Debug\MainWindow.g.cs
+D:\바탕화면\GUI_player\GUI_player\obj\Debug\App.g.cs
+D:\바탕화면\GUI_player\GUI_player\obj\Debug\GUI_player_MarkupCompile.cache
+D:\바탕화면\GUI_player\GUI_player\obj\Debug\GUI_player_MarkupCompile.lref
+D:\바탕화면\GUI_player\GUI_player\obj\Debug\MainWindow.baml
+D:\바탕화면\GUI_player\GUI_player\obj\Debug\GUI_player.g.resources
+D:\바탕화면\GUI_player\GUI_player\obj\Debug\GUI_player.Properties.Resources.resources
+D:\바탕화면\GUI_player\GUI_player\obj\Debug\GUI_player.csproj.GenerateResource.cache
+D:\바탕화면\GUI_player\GUI_player\obj\Debug\GUI_player.csproj.CoreCompileInputs.cache
+D:\바탕화면\GUI_player\GUI_player\obj\Debug\GUI_player.exe
+D:\바탕화면\GUI_player\GUI_player\obj\Debug\GUI_player.pdb
