@@ -1,8 +1,7 @@
 # Floating_GUI_Player
 플로팅 GUI 동영상 플레이어
 
-다운로드 : https://kumohackr-my.sharepoint.com/:u:/g/personal/imoneleft_kumoh_ac_kr/EZKr1Mqt1HJKg2fyRE5BOFcBB6EpR2a9eEbC3i5m4Cl5tg?e=PbSt5r
-
+다운로드 : [링크](https://kumohackr-my.sharepoint.com/:u:/g/personal/imoneleft_kumoh_ac_kr/EZKr1Mqt1HJKg2fyRE5BOFcBB6EpR2a9eEbC3i5m4Cl5tg?e=PbSt5r)
 
 ![슬라이드1](https://user-images.githubusercontent.com/40861980/125256252-411c1d00-e337-11eb-8efa-71cf8b2a02c7.PNG)
 ![슬라이드2](https://user-images.githubusercontent.com/40861980/125256257-41b4b380-e337-11eb-8fd1-70a2fc600115.PNG)
